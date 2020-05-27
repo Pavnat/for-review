@@ -1,4 +1,4 @@
-rom IPython.display import clear_output
+from IPython.display import clear_output
 
 def zero_record(): #Table reset
     global record
